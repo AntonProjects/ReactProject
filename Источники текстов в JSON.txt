@@ -1,0 +1,3 @@
+https://ru.wikipedia.org/wiki/JavaScript
+https://ru.wikipedia.org/wiki/HTML
+https://ru.wikipedia.org/wiki/Веб-приложение
